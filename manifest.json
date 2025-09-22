@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Image Format Downloader",
+  "name": "Image Formater and Downloader",
   "version": "1.0",
   "permissions": ["contextMenus", "tabs", "downloads"],
   "background": {
