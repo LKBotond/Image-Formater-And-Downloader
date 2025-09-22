@@ -1,4 +1,4 @@
-# Image Formater and Downloader
+# Image Formatter and Downloader
 A simple browser extension that adds a right-click context menu button to convert any web image to PNG before downloading.
 
 ## Reason for its existence:
