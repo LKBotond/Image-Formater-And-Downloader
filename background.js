@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "convertImage",
-    title: "Convert image to PNG",
+    title: "Convert and Download Image",
     contexts: ["image"],
   });
 });
